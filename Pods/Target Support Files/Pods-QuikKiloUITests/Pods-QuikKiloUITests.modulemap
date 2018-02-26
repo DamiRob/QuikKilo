@@ -1,0 +1,6 @@
+framework module Pods_QuikKiloUITests {
+  umbrella header "Pods-QuikKiloUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
